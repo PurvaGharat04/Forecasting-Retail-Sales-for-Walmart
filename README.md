@@ -1,1 +1,4 @@
-"walmart" 
+## Forecasting Retail Sales for Walmart
+In the highly competitive retail industry today, it's essential to respond quickly to changes in market trends and what customers like. Today's consumers demand personalized experiences that integrate seamlessly between digital and physical channels, while expecting competitive pricing and immediate satisfaction. Failing to meet these expectations may lead to customers switching to a different retailer. This presents significant challenges for retailers, including managing inventory, supply chain, pricing, and customer engagement. 
+
+To address these challenges, my goal is to implement big data analytics to help Walmart better understand its customers and increase sales. My project will involve analyzing Walmart's past sales data to identify critical factors for accurate forecasting. The resulting forecast information will enable Walmart to optimize its operations, inventory management, and pricing strategies to better serve its customers.
